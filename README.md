@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aljohnlauigan23" alt="aljohnlauigan23" /></a> </p>
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Laravel
 
 - 👨‍💻 All of my projects are available at [profile.thezionlab.com/almerjohnlauigan](profile.thezionlab.com/almerjohnlauigan)
 
