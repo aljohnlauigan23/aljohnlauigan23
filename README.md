@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aj</h1>
-<h3 align="center">A passionate and aspiring web developer developer</h3>
+<h3 align="center">A passionate and aspiring web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljohnlauigan23&label=Profile%20views&color=0e75b6&style=flat" alt="aljohnlauigan23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aljohnlauigan23" alt="aljohnlauigan23" /></a> </p>
 
-- 🌱 I’m currently learning Laravel, Nextjs and Python
+- 🌱 I’m currently learning Python
 
 - 👨‍💻 All of my projects are available at [profile.thezionlab.com/almerjohnlauigan](profile.thezionlab.com/almerjohnlauigan)
 
