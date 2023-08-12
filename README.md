@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljohnlauigan23&label=Profile%20views&color=0e75b6&style=flat" alt="aljohnlauigan23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aljohnlauigan23" alt="aljohnlauigan23" /></a> </p>
 
-- 🌱 I’m currently learning Python and Laravel
+- 🌱 I’m currently learning Python
 
 - 👨‍💻 All of my projects are available at [profile.thezionlab.com/almerjohnlauigan](profile.thezionlab.com/almerjohnlauigan)
 
 - 📫 How to reach me **almerjohnlauigan23@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and lazy**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
