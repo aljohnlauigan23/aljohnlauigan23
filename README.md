@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AJpla</h1>
+<h1 align="center">Hi 👋, I'm AJplau</h1>
 <h3 align="center">A passionate and aspiring Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljohnlauigan23&label=Profile%20views&color=0e75b6&style=flat" alt="aljohnlauigan23" /> </p>
